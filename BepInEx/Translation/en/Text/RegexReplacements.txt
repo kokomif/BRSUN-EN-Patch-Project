@@ -1,0 +1,17 @@
+^通常攻撃時、(.+)=$1 during normal attack
+^(.+属性)キャラの(.+)=$2 for $1 characters
+^(.+装着者)の(.+)=$2 for $1
+^(自身|全体)の(.+)=$1 $2
+^開始([0-9]+)ターン、(.+)=Start $1 turns, $2
+^HP([0-9％]+)以上で攻撃中(.+)=$2 during attack at $1 HP or more
+^(自身|全体)の(.+)=$1 $2
+^HP([0-9％]+)(以上で|で)攻撃中(.+)=$3 during attack at $1 HP or more
+^(.+属性)キャラの(.+)=$2 for $1 characters
+^(.+装着者)の(.+)=$2 for $1
+^(.+状態の敵)に(.+)=$2 for $1
+^HP([0-9％]+)以上行動時(.+)=$2 when HP is over $1
+^HP([0-9％]+)以上で味方攻撃中の(.+)=When HP is $1 or above, increases $2 during allies' attacks
+^開始([0-9]+)ターン、(.+)=For $1 turns, $2
+^HP([0-9％]+)以上で攻撃中(.+)=When HP ≥ $1, $2 during attack
+^HP([0-9％]+)以上で味方攻撃中の(.+)=Allies attack: +$2 (HP ≥ $1)
+^HP([0-9％]+)以下で攻撃中(.+)=+$2 (HP ≤ $1)

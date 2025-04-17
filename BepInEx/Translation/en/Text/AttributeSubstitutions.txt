@@ -1,0 +1,6 @@
+(火|水|土|風|無)属性=($1) attribute
+火=Fire
+水=Water
+土=Earth
+風=Wind
+無=Normal

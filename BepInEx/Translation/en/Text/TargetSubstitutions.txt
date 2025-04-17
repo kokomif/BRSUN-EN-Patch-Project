@@ -1,0 +1,5 @@
+(自身|全体|開始[0-9]+ターン|HP[0-9％]+以上で攻撃中)=$1
+自身=Own
+全体=Overall
+開始([0-9]+)ターン=Start $1 turns
+HP([0-9％]+)以上で攻撃中=during attack at $1 HP or more

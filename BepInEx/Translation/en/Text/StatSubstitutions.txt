@@ -1,0 +1,10 @@
+(ATK|MAG|DEF|HP|SP|CRT率|CRTダメージ)=$1
+\+([0-9]+%)= +$1
+(小|中|大|特大)=$1
+・= and 
+軽減・(小|中|大)=reduction - ($1)
+継続回復・(小|中|大|特大)=continuous recovery - ($1)
+回復・(小|中|大|特大)=recovery - ($1)
+ダメージ=damage
+率=Rate
+ATKMAG=ATK and MAG

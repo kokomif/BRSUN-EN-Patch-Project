@@ -1,0 +1,6 @@
+(サイズ|ビット|スピア|ナックル|ソード)装着者=$1 wearer
+サイズ=Scythe
+ビット=Bit
+スピア=Spear
+ナックル=Knuckle
+ソード=Sword

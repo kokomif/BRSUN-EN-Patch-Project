@@ -1,0 +1,5 @@
+(火傷|麻痺|毒)状態の敵=enemies with $1
+火傷=burns
+麻痺=paralysis
+毒=poison
+行動時=when

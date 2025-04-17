@@ -1,0 +1,28 @@
+武器=Weapons
+おまかせ編成=Auto-Party Setup
+この編成をコピー=Copy Party Setup
+総合戦闘力=<size\=19>Total Combat Power</size>
+効果 B=Effect B
+効果 A=Effect A
+ステータス<size\=18>【ステータス上昇】</size>=Status<size\=18></size>
+サブキャラクター<size\=18>【ステータス上昇】</size>=Sub Character<size\=18></size>
+武器<size\=18>【ステータス上昇】</size>=Weapons<size\=18></size>
+フラグカード=Frag card
+SP回復力=SP Recovery
+パッシブ=Passive
+経験値=XP
+おまかせ装備=Auto-Equip
+キャラクター=Character
+★★に限界突破で解放=Unlocked via Limit Break at ★★.
+★★★に限界突破で解放=Unlocked via Limit Break at ★★★.
+★★★★に限界突破で解放=Unlocked via Limit Break at ★★★★.
+★★★★★に限界突破で解放=Unlocked via Limit Break at ★★★★★.
+SUB / フラグカード=SUB / Flag Card
+MAIN / キャラクター=MAIN / Character
+キャラ変更=Character Change
+比較=Compare
+キャラクターを変更しました=Character changed successfully.
+HP70％以下で攻撃中自身のATK+80%=ATK +80% during combat at 70% HP or less
+フラグカード変更=Frag Card Change
+限界突破可能 !!=Limit Break Available !!
+メインキャラ 編成中=<size\=6>Editing Main Character's Party</size>

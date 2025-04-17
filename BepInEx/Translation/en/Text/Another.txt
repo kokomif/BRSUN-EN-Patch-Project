@@ -1,0 +1,92 @@
+PARTY No.1を反映する=Apply Party No.1
+降順=Descending
+昇順=Ascending
+ヒロイン=Heroine
+特効ボーナス=Special Effect Bonus
+限界突破=Limit Break
+フィルター\nON=Filter\nON
+物理攻撃(%)=Physical attack (%)
+物理防御(%)=Physical defense (%)
+魔法攻撃(%)=Magic attack (%)
+魔法防御(%)=Magic defense (%)
+急所率(%)=Critical Rate (%)
+急所攻撃(%)=Critical Hit (%)
+特殊条件=Special Conditions
+全選択解除=Deselect All
+ランク=Rank
+火=Fire
+水=Water
+土=Earth
+風=Wind
+無=Normal
+物理攻撃=Physical
+魔法攻撃=Magic
+回復=Recovery
+補助=Support
+レベルMax以外=Other than level Max.
+限界突破可能=Limit breakthrough possible
+フィルター\nOFF=Filter\nOFF
+サイズ=Scythe
+ビット=Bit
+スピア=Spear
+ナックル=Knuckle
+ソード=Sword
+
+昇降順=A/D Order
+入手順=Acquisition
+レアリティ\n=Rarity
+レベル=Level
+スキル種=Skill Type
+武器種=Weapon Type
+属性=Attribute
+基本条件=Basic Requirements
+フィルター=Filter
+ソート=Sort
+
+全選択解除=Deselect All
+レベルMax以外=Other Than Max Level
+限界突破可能=Limit Break Available
+キャラクター限界突破=Character Limit Break
+
+スキル=Skill
+戦闘力=CP
+ステータス=Status
+所持数=Owned Quantity
+
+設定=Configuration
+アイテム=Item
+特典入手=Get Special Offers
+お得な情報=Deals
+ダウンロード=Download
+データ連携=Data Linkage
+フレンド=Friend
+プレイヤー\nプロフィール=Player\nProfile
+通貨確認=Currency Confirmation
+サポート=Support
+ヘルプ=Help
+公式\nコミュニティ=Official\nCommunity
+タイトルに\n戻る=Title.\nBack to Title
+
+未 解 放\n<size\=10>UNAUTHORIZED.</size>=UNAUTHORIZED.<size\=10>UNAUTHORIZED.</size>
+メインクエスト=Main Story
+クエスト達成率=Story  Achievement   Rate
+
+推奨戦闘力=Rec. CP
+
+CASE選択=CASE Selection
+デフォルト=Default
+決定=Accept
+
+ボイスと衣装設定を行ってください。=Please set up voice and costume settings.
+シナリオ開始=Start scenario
+シナリオを1回見ることで利用可能になります=Available by viewing the scenario once
+設定した衣装を反映=<size\=23>Apply Selected Costume</size>
+衣装設定=<size\=17>Costume Setting</size>
+ボイス なし=No Voice
+ボイス あり=Voiced
+ボイス設定=<size\=17>Voice Setting</size>
+クエスト報酬=<size\=17>Quest Rewards</size>
+受取済=<size\=22>Received</size>
+
+スキップ=Skip
+キャンセル=Cancel

@@ -1,0 +1,35 @@
+/UI(Clone)/Added/SimpleWindow/ContentLayer/UISafeArea/UI_view_QuestSelect(Clone)/PNL_INFO/PNL_RightPanel/GAGE/TXTP_progress=ChangeFontSizeByPercentage(1)
+
+#chara Introduce
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_R_04(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXTP_name=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_R_04(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXT_mess=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_02(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXTP_name=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_02(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXT_mess=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_06(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXTP_name=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_06(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXT_mess=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_R_07(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXTP_name=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_R_07(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXT_mess=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_R_01(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXTP_name=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_R_01(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXT_mess=ChangeFontSizeByPercentage(0.7)
+
+#Battle Menu Selection
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestInfo(Clone)/PNL_SubWin/PNL_V_color/spacer/PNL_mission/PNL_item/PNL_title/TXTP_title=ChangeFontSizeByPercentage(0.7)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestInfo(Clone)/PNL_SubWin/PNL_V_color/spacer/PNL_item/PNL_title/TXTP_title=ChangeFontSizeByPercentage(0.7)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestInfo(Clone)/PNL_SubWin/PNL_V_color/spacer/IMG_mask/IMG_BG/Stamina/TXTP_stamina=ChangeFontSizeByPercentage(0.7)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestInfo(Clone)/PNL_SubWin/PNL_V_color/spacer/IMG_mask/IMG_BG/Stamina/TXTP_staminaNum=ChangeFontSizeByPercentage(0.7)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestEnemy(Clone)/PNL_SubWin/PNL_V_color/spacer/IMG_BG/TXTP_mission=ChangeFontSizeByPercentage(0.7)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestEnemy(Clone)/PNL_SubWin/PNL_V_color/spacer/IMG_BG/IMG_BG/TXTP_mission=ChangeFontSizeByPercentage(0.7)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestEnemy(Clone)/PNL_SubWin/PNL_V_color/PNL_H/UI_BTN_Hcaution/IMG_color_BTN_H/IMG_pattern/TXTP_BTN_H/PNL_H_Stamina2/PNL_C/TXTP_stamina=ChangeFontSizeByPercentage(0.5)
+
+#Chara Enhancement
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_ST_CharaStrengthening(Clone)/PNL_SubWin/PNL_V_color/_Text/TXT_Text=ChangeFontSizeByPercentage(0.7)
+
+#Battle
+/Root/UICamera/Canvas/UI_sub_BattleMenu/PNL_H_safe_NoFit/PNL_V_safe/PNL_safearea/PNL_C/PNL_T/UI_SubWin_O/PNL_SubWin/PNL_V_color/_TextScroll/PNL_Win/IMG_BG/TXTP_mission=ChangeFontSizeByPercentage(0.7)
+/Root/UICamera/Canvas/UI_sub_BattleMenu/PNL_H_safe_NoFit/PNL_V_safe/PNL_safearea/PNL_C/PNL_T/UI_SubWin_O/PNL_SubWin/PNL_V_color/PNL_H/Checks/UI_TGL_check2/TXTP_word=ChangeFontSizeByPercentage(0.7)
+/Root/UICamera/Canvas/UI_sub_BattleMenu/PNL_H_safe_NoFit/PNL_V_safe/PNL_safearea/PNL_C/PNL_T/UI_SubWin_O/PNL_SubWin/PNL_V_color/PNL_H/Checks/UI_TGL_check/TXTP_word=ChangeFontSizeByPercentage(0.7)
+
+#Failed Screen
+/Root/UICamera/Canvas/Cutin/PNL_BattleLosetips/ForeGrounds/Lower/L_Info/L_infoText/M_NextMoji=ChangeFontSizeByPercentage(0.65)
+
+

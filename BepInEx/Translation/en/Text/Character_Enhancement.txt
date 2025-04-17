@@ -1,0 +1,28 @@
+最大Lv.=Max Lv.
+必要=Required
+獲得EXP=EXP Earned
+レベル強化=Level Enhancement
+キャラクター強化=Character Enhancement
+キャラEXPドロップ・小=Character EXP Candy, Small
+キャラEXPドロップ・中=Character EXP Candy, Medium
+キャラEXPドロップ・大=Character EXP Candy, Large
+
+
+限界突破によりキャラクターの”レベル上限”が開放！\n限界突破には、各キャラクターの”ピース”が必要になります=Limit Break unlocks the character's level cap!
+キャラクターのレアリティに応じてフラグカード、\nサブキャラクターの装備スロット数が拡張！=The number of equipment slots for flag cards and sub-characters expands\naccording to the rarity of the character!
+装備スロットの拡張=Expansion of equipment slots
+キャラクターのレアリティに応じてパッシブスキルを修得！\n限界突破でレアリティを上げてバトルを有利に進めよう=Acquire passive skills based on your character's rarity!
+パッシブスキルの修得=Passive Skill Acquisition
+
+チェックで確認を省略します=Check to skip confirmation
+サクサクモード=Smooth Mode
+ココログラム=Kokorogram
+解放=Unlock
+解放時の確認画面を省略=Check confirmation screen at the time of release
+ステータスアップ=Status Update
+解放時の確認画面を省略=Skip Confirmation
+解放する=Release
+スキルレベルアップ=Skill Level Up
+ハート・ブロンズ\n×5（所持数 999）\nを消費してマスを解放しますか？=Do you want to spend 5 hearts/bronze (999 possessions) to unlock this tile?
+マスの解放=Mass Unlock
+解　放　済　み=Already Unlocked

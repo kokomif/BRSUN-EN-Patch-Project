@@ -1,0 +1,32 @@
+ミッション=Mission
+自軍戦闘力=Allied CP
+消費ST=Consumption ST
+ミッション報酬=Mission Rewards
+ドロップ=Drop
+クリア報酬=Clear Reward
+戦闘準備=Combat Preparation
+敵の殲滅=Annihilate Enemies
+誰も戦闘不能にならず勝利する=Victory Without Anyone Losing Combat.
+10ターン以内に勝利する=Win within 10 turns
+※表示以外のものも入手できることがあります。=*Sometimes, items other than those indicated are also available.
+戦闘開始=Battle Start
+オート周回=Auto-Repeat
+自軍情報=Party Information
+
+ステージ情報=Stage Information
+属性表を表示=Display Attribute Table
+勝利条件=Condition of Victory
+スキルを連打で実行=Execute skills in a row.
+リタイア=Retire
+
+リタイアするとバトル報酬を獲得できません。\r\n本当にリタイアしますか？\r=If You retire, You Will NOT Receive Battle Rewards if You Retire. Proceed anyway?
+リタイア確認=Confirm Retirement?
+
+#Failed Screen
+任　務　達　成　の　心　得=Tips for accomplishing your duties
+<b><color\=#FFCE00>１．強化</color></b>\nキャラ、カードのレベルを上げる。=<b><color\=#FFCE00>1. Enhancement</color></b>Level up your characters and cards.
+情　報　提　供=Information Provision
+<b><color\=#FFCE00>２．強化クエスト</color></b>\n経験値アイテムや武器材料を沢山取得する。=<b><color\=#FFCE00>2. Enhancement Quests</color></b>Obtain lots of experience items and weapon materials.
+<b><color\=#FFCE00>３．武器作成</color></b>\n武器材料を取得したら、より強い武器を作成する。=<b><color\=#FFCE00>3. Weapon Crafting</color></b>Use collected materials to forge stronger weapons.
+<b><color\=#FFCE00>４．ココログラム</color></b>\nハートを貯めて、ココログラムでパラメータ解放。\n=<b><color\=#FFCE00>4. Kokoro Graph</color></b>Accumulate Hearts to unlock parameters.
+日ノ杜学園 任務遂行向上委員会=Hinomori Academy Mission Improvement Committee
