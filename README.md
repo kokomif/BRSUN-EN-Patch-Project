@@ -12,7 +12,7 @@ This patch uses ```BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.704```, which has been 
 - Contains patch and partially translated content into English.
 
 **Installation**
-- Download the desired patch files.
+- Download the desired patch files from the [Releases Section](https://github.com/kokomif/BRSUN-EN-Patch-Project/releases).
 - Extract the .zip file in the game folder
 
 **Known Issues**
