@@ -20,6 +20,10 @@
 /UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestEnemy(Clone)/PNL_SubWin/PNL_V_color/spacer/IMG_BG/TXTP_mission=ChangeFontSizeByPercentage(0.7)
 /UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestEnemy(Clone)/PNL_SubWin/PNL_V_color/spacer/IMG_BG/IMG_BG/TXTP_mission=ChangeFontSizeByPercentage(0.7)
 /UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestEnemy(Clone)/PNL_SubWin/PNL_V_color/PNL_H/UI_BTN_Hcaution/IMG_color_BTN_H/IMG_pattern/TXTP_BTN_H/PNL_H_Stamina2/PNL_C/TXTP_stamina=ChangeFontSizeByPercentage(0.5)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestCompReward(Clone)/PNL_SubWin/PNL_V_color/spacer/PNL_H_reward/UI_ICN_baseComp/IMGmission/TXTP_comp=ChangeFontSizeByPercentage(0.5)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestCompReward(Clone)/PNL_SubWin/PNL_V_color/spacer/PNL_H_reward/UI_ICN_baseMis1/IMGmission/TXTP_mis1=ChangeFontSizeByPercentage(0.5)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestCompReward(Clone)/PNL_SubWin/PNL_V_color/spacer/PNL_H_reward/UI_ICN_baseMis2/IMGmission/TXTP_mis2=ChangeFontSizeByPercentage(0.5)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestCompReward(Clone)/PNL_SubWin/PNL_V_color/spacer/PNL_H_reward/UI_ICN_baseMis3/IMGmission/TXTP_mis3=ChangeFontSizeByPercentage(0.5)
 
 #Chara Enhancement
 /UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_ST_CharaStrengthening(Clone)/PNL_SubWin/PNL_V_color/_Text/TXT_Text=ChangeFontSizeByPercentage(0.7)
@@ -28,8 +32,16 @@
 /Root/UICamera/Canvas/UI_sub_BattleMenu/PNL_H_safe_NoFit/PNL_V_safe/PNL_safearea/PNL_C/PNL_T/UI_SubWin_O/PNL_SubWin/PNL_V_color/_TextScroll/PNL_Win/IMG_BG/TXTP_mission=ChangeFontSizeByPercentage(0.7)
 /Root/UICamera/Canvas/UI_sub_BattleMenu/PNL_H_safe_NoFit/PNL_V_safe/PNL_safearea/PNL_C/PNL_T/UI_SubWin_O/PNL_SubWin/PNL_V_color/PNL_H/Checks/UI_TGL_check2/TXTP_word=ChangeFontSizeByPercentage(0.7)
 /Root/UICamera/Canvas/UI_sub_BattleMenu/PNL_H_safe_NoFit/PNL_V_safe/PNL_safearea/PNL_C/PNL_T/UI_SubWin_O/PNL_SubWin/PNL_V_color/PNL_H/Checks/UI_TGL_check/TXTP_word=ChangeFontSizeByPercentage(0.7)
+/UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_Quest1tReward(Clone)/PNL_SubWin/PNL_V_color/spacer/PNL_H_reward/UI_ICN_base1sttime(Clone)/IMG1st/TXTP_1st=ChangeFontSizeByPercentage(0.5)
+
+
+/UI(Clone)/DialogCanvas/DialogLayer/Normal/UISafeArea/UI_sub_QuestScenarioOP(Clone)/PNL_SubWin/PNL_V_color/_HeadLine/TXT_SubWin_HeadLine=ChangeFontSizeByPercentage(0.9)
 
 #Failed Screen
 /Root/UICamera/Canvas/Cutin/PNL_BattleLosetips/ForeGrounds/Lower/L_Info/L_infoText/M_NextMoji=ChangeFontSizeByPercentage(0.65)
 
+#story menu
+/UI(Clone)/Added/SimpleWindow/ContentLayer/UISafeArea/UI_view_QuestSelect(Clone)/PNL_V_safe/PNL_V/PNL_C/IMG_caseBanner/PNL_AS/Scroll View/Viewport/Content/PNL_V/PNL_B/214/IMG_shadow/PNL_title/TXT_title=ChangeFontSizeByPercentage(0.65)
 
+#Case1
+/StageRotate/StageTransition/ADV/UI/CenterCanvas/UI_view_Event(Clone)/PNL_V/PNL_T/PNL_C/PNL_G/Scroll View/Viewport/Content/BTN_Choices_1(Clone)/TXT_Choices=ChangeFontSizeByPercentage(0.9)

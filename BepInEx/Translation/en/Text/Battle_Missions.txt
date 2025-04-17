@@ -12,6 +12,9 @@
 戦闘開始=Battle Start
 オート周回=Auto-Repeat
 自軍情報=Party Information
+初回報酬=First-Time Reward
+報酬=Reward
+コンプ報酬=Completion Reward
 
 ステージ情報=Stage Information
 属性表を表示=Display Attribute Table
@@ -30,3 +33,8 @@
 <b><color\=#FFCE00>３．武器作成</color></b>\n武器材料を取得したら、より強い武器を作成する。=<b><color\=#FFCE00>3. Weapon Crafting</color></b>Use collected materials to forge stronger weapons.
 <b><color\=#FFCE00>４．ココログラム</color></b>\nハートを貯めて、ココログラムでパラメータ解放。\n=<b><color\=#FFCE00>4. Kokoro Graph</color></b>Accumulate Hearts to unlock parameters.
 日ノ杜学園 任務遂行向上委員会=Hinomori Academy Mission Improvement Committee
+
+
+再生=Playback
+次のシナリオを連続で再生しますか？=Do you want to play the next scenario in sequence?
+シナリオ連続再生確認『任命』=Confirm Continuous Scenario Playback

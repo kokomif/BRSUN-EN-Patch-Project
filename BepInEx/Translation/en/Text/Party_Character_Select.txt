@@ -26,3 +26,15 @@ HP70％以下で攻撃中自身のATK+80%=ATK +80% during combat at 70% HP or le
 フラグカード変更=Frag Card Change
 限界突破可能 !!=Limit Break Available !!
 メインキャラ 編成中=<size\=6>Editing Main Character's Party</size>
+
+実行しますか？=Do you want to run it?
+戦闘力が最大となるキャラクター、カード、武器を\n自動で配置します。他の条件で配置したい場合、\n詳細設定ボタンでエディット可能です=The system automatically places the characters, cards, and weapons with the maximum combat power.
+確認=confirmation
+詳細設定=Advanced Settings
+
+魔法防御=Magic DEF.
+物理防御=Physical DEF.
+総攻撃力=Total CP
+おまかせ=Auto-Optimize
+すべて=All
+メイン属性=Main attribute

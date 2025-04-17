@@ -163,6 +163,9 @@ SOLiDのチームメイト７人を踏み台にした=To use the 7 teammates of 
 君に頼みたいことはただ１つ。当学園の特殊部隊を鍛え、立て直してもらいたい=I have just one request: Train and rebuild our academy's special forces.
 ……=...
 
+# skip
+日ノ杜学園には、異灰殲滅に特化した能力を持つ生徒たちに\nよって結成されている特殊部隊がある。しかし彼らの戦績は\n芳しくなく、灰の侵食が街すぐそばまで迫っていた。部隊の\n司令である司城は、広島校で実績を上げていた男子生徒に、\n部隊の立て直しを依頼する=The commander of the unit, Tsukashiro, asks a male student who had a good track\nrecord at the Hiroshima School to rebuild the unit.
+
 # MainScenario-Chapter0-Chapter0-4-2
 君に頼みたいことはただ１つ。当学園の特殊部隊を鍛え、立て直してもらいたい=I have just one request for you: Train and rebuild our academy's special forces.
 ……=...
@@ -183,10 +186,15 @@ SOLiDのチームメイト７人を踏み台にした=To use the 7 teammates of 
 君は、私たちにとっての最後の希望の光でもある。……どうか、彼女らのことをよろしく頼む=You're our last glimmer of hope. Please... take good care of them.
 ……わかりました=...Understood.
 
+
 さて、そろそろ集まる頃だ。この時間に召集をかけてあるからな=They should be arriving soon - I called them to assemble at this time.
 彼女ら特殊部隊隊員に、君を紹介するために=To introduce you to our special forces members.
 失礼します！=Reporting for duty!
 瀟美岐、高岡由紀子、星谷かんな、生駒彩未。只今、任務より帰還しました=Meiqi Xiao, Yukiko Takaoka, Kanna Hoshiya, and Ayami Ikoma - returning from mission.
+
+#skip
+特殊部隊の本来の目的は、異灰からコズミックファングを\n奪還すること。しかし実際は、塔はおろか街さえも護れて\nいない「史上最弱の特殊部隊」だった。司令本部からは、\nあと３か月以内に特定の地区を異灰から奪還しなければ、\n本部のエリートを送り込むと言われている。\n司城としてはそのような事態は避けたいとのことだった=The original purpose of the Special Forces was to retake Cosmic Fang from the\nash, but in reality, they were the "weakest Special Forces in history" that\ncould not even protect the city, let alone the tower.
+
 
 # MainScenario-Chapter0-Chapter0-5
 失礼します！=Reporting for duty!
@@ -201,8 +209,8 @@ SOLiDのチームメイト７人を踏み台にした=To use the 7 teammates of 
 本日より特殊部隊に配属となる、$主人公$だ。挨拶を=This is $主人公$, assigned to our special forces starting today. Introduce yourself.
 
 
-「よろしくお願いします」=\Pleased to meet you all.\
-「みんな、これから楽しくやっていこうな！」=\Let's have fun working together from now on!\
+「よろしくお願いします」=Pleased to meet you all.
+「みんな、これから楽しくやっていこうな！」=Let's have fun working together from now on!
 
 
 ……=...
@@ -224,7 +232,10 @@ SOLiDのチームメイト７人を踏み台にした=To use the 7 teammates of 
 君は……=You're...
 えっ？=Huh?
 
+#skip
+美岐、由紀子、かんな、彩未が任務から帰還し、司令室に\n集まった。彼女たちは新しいメンバーが男性であることに\n驚きを隠せない様子。そこに校門で出逢った少女、詩帆が\n遅れて現れた=Mikiko, Yukiko, Kanna, and Ayami return from their mission and gather in the\ncommand center, where they are surprised to find that the new members are\nmale, when Shiho, a girl they met at the school gate, shows up late.
 
+# MainScenario-Chapter0-Chapter0-6
 ……あっ！！あなたは、校門で会った……=...Ah! You were the one at the school gate...
 なんだ、もう会っていたのか=So you two have already met.
 彼女は春日詩帆。彼女もまた、今日から正式に配属になる隊員だ=Her name is Shiho Kasuga. She'll also be one of our members officially starting from today.
@@ -252,7 +263,7 @@ $主人公$は、前年度までは当学園の広島校で、特殊部隊を率
 ……！？なっ………=...!? Wh-
 私からの連絡事項は以上だ。全員、解散=That's all for today. Dismissed.
 納得できません！！リーダーは私の務めです！=I cannot accept that! I'm in charge of the Leader!
-（ん！？瀟さんリーダーだった…のか？）=(Hm?! So Xiao was the Leader?)
+（ん！？　瀟さんリーダーだった…のか？）=(Hm?! So Xiao was the Leader?)
 事実、今の部隊は上手く機能していない。状況の改善が必要と判断した、それだけのことだ=In reality, the Special Force is not functioning well. I made the decision to improve the current situation, that's all there is.
 ……っ=...Ng.
 
@@ -276,10 +287,13 @@ $主人公$は、前年度までは当学園の広島校で、特殊部隊を率
 ねえ、$主人公$先輩！=Hey, $主人公$ senpai!
 何？=What is it?
 これから、$主人公$先輩のこと、“お兄ちゃん”って呼んでいい？=Can I call $主人公$ senpai as "big brother" from now on?
-は！？お兄ちゃん……？=Huh?! Big brother...?
-決めたっ！これからそうしよっと！かんなたちのこと、よろしくね！お兄ちゃん♪=It's decided! I'll be calling you that now! Please take care of us, big brother ♪
+は！？　お兄ちゃん……？=Huh?! Big brother...?
+決めたっ！　これからそうしよっと！\nかんなたちのこと、よろしくね！　お兄ちゃん♪=It's decided! I'll be calling you that now! Please take care of us, big brother ♪
 
 一体何なんだ、ここの特殊部隊は……=What's the deal with the Special Force here...
 ――これが俺と彼女たちとの、始まりの物語=――This is the story of the beginning of me and the girls.
 そしてここから俺は、彼女たちと共に、ただひたすら突き進んでゆくことになる=And from this point onward, I'll be breaking through in a straight line with the girls.
 このセカイの、終焉の刻へと向かって――=Towards the Hour of Calamity of this world――
+
+#skip
+詩帆は今日から部隊に配属された隊員だった。司城は同じく\n新入りの男子生徒を、リーダーに任命する。元々リーダーで\nあった美岐は反対するが、司城は聞く耳を持たない。\nリーダーを受け入れる者、拒む者。\nそれぞれの反応に彼は困惑する=Shiho is a new member of the unit today, and Ayaka appoints a new male student to be the leader, which is opposed by Meiqi, the original leader, but Ayaka refuses to listen to her.
