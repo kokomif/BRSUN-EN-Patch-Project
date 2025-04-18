@@ -19,6 +19,8 @@ This patch uses ```BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.704```, which has been 
 - The in-game UI of a BepInEx mod (like XUnity's GUI) is completely broken. However, this is not an essential function. The patch works without the GUI, and you can edit its configuration in the plugin's `.cfg` file.
 
 **Change Log**
+v0.2
+Update Translated Main Story up to CASE02
 
 v0.1 
 

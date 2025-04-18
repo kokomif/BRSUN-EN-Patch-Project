@@ -1,2 +1,2 @@
-﻿イローデッド=Eroded
-
+﻿# Change Asahina With Your Name Protagonist
+Asahina=Asahina

@@ -37,3 +37,5 @@ Kana=Kanna
 Saimi=Ayami
 Shiho Kasuga=Kasuga Shiho
 Adult Madras Check=Madame Madras Check
+
+Irodead=Eroded

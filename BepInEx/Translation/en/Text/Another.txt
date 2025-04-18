@@ -91,4 +91,4 @@ CASE選択=CASE Selection
 スキップ=Skip
 キャンセル=Cancel
 
-有償希想石:=Paid Paid Gems:.
+有償希想石:=Paid Gems:.

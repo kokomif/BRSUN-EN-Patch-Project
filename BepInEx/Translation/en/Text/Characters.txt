@@ -37,6 +37,11 @@
 優し気に話す少女=Girl talking gently
 凛とした雰囲気の少女=Girl in cold atmosphere
 眼鏡をかけた少女=Girl wearing glasses
+ショートヘアの少女=Girl with short hair
+金色の髪の少女=Golden hair girl
+アナウンス=Announcement
+破滅の刻を紡ぐ少女=Weaver of the Destruction Hour
+楔となりて世を御す少年=Linchpin, Controller of World
 
 #<!-- Hiragana Character Name -->
 たかおか　  ゆきこ    =たかおか　  ゆきこ
@@ -45,7 +50,10 @@
 しじょう　　　　　　=しじょう		あやか
 いこま　あやみ=いこま　あやみ
 ほしや　　　　　　=ほしや 	  かんな
-
+あずみ    　ななか  =あずみ    　ななか
+もりさき　　　　　　　　 ゆう=もりさき　　　　　　　　       ゆう
+くの　　　　　　=くの 		きらら
+こまがわ うた =こまがわ うた
 #<!-- Intro Character --!>
 
 #Meiqi
@@ -67,6 +75,18 @@ CV : 奥 紗瑛子=CV : Saeko Oku
 #Shiho
 新たに転校してきた、純粋で礼儀正しい優等生。\n普段は周りに気を遣うあまり遠慮がちだが、\n実は自分の信念を貫き通す強い心を秘めている。\n実家がカフェだったこともあり、料理が得意。=She is a pure, polite, and honor student who has transferred to the new school,\nand is usually reserved because of her concern for others, but in fact, she\nhas a strong heart and is a strong believer in her own beliefs.
 CV : 陶山 恵実里=CV : Emiri Touyama
+
+#Yu
+「平等」を愛する少女。故にどんな人間にも\n平等に降り注ぎ、平等に死をもたらす灰に\n憧れを持つ。達観しており、世間に無頓着。\n表情や感情も、滅多に動くことはないのだが…=A girl who loves "equality" and therefore longs for the ashes that fall equally on all people and bring equal death... a girl who is optimistic and indifferent to the world, whose facial expressions and emotions seldom move... a girl who is always looking for a way out... a girl who is always looking for a way in.
+CV : 鈴代 紗弓=CV : Sayumi Suzushiro
+森崎<size\=40> アレシア </size>優=Morisaki<size\=40> Alesia </size>Yu.
+
+#Kirara
+言動が不思議な少女。\nイロ―デッドになる以前から予知能力を持っていて\n“神の声”や人ならざる者の声を聞くことができた。\n誤解されがちだが、友を想う気持ちは誰より強い。=She is a girl with strange words and actions, and even before she became an Eroded, she had the gift of precognition and was able to hear the "voice of God" and the voices of non-humans.
+CV : 大野 柚布子=CV : Yuzuko Ono
+
+神出鬼没な謎の少女。\n過度に人なつっこい雰囲気を持つが、言葉の端々に\n意味深なニュアンスを含んでいたり油断できない。\n主人公と似た能力を持っているようだが…=A mysterious girl who appears and disappears from the world with an excessively friendly atmosphere, but her every word contains a meaningful nuance, and she can't be trusted.
+CV : 田辺 留依=CV : Rui Tanabe
 
 
 #<!-- Characters Costume Name -->
