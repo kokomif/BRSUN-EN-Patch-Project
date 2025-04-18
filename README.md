@@ -20,6 +20,7 @@ This patch uses ```BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.704```, which has been 
 
 **Change Log**
 v0.2
+
 Update Translated Main Story up to CASE02
 
 v0.1 
