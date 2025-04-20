@@ -15,11 +15,32 @@ This patch uses ```BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.704```, which has been 
 - Download the desired patch files from the [Releases Section](https://github.com/kokomif/BRSUN-EN-Patch-Project/releases).
 - Extract the .zip file in the game folder
 
+**How to Make the Main Character's Name Show Up in the Story**
+
+To make the game story display your main character's name correctly, you need to modify the `_Substitutions.txt` file.
+
+**File Location**
+`YourGameFolder\BepInEx\Translation\en\Text\_Substitutions.txt`
+
+Inside the _Substitutions.txt file, you’ll see a placeholder like this:
+
+`Asahina=Asahina`
+
+This placeholder controls how the name appears in the story.
+
+If you want to use a different name for the protagonist, just replace it with your preferred name.
+For example, to change the protagonist’s name to Firis, you can write:
+
+`Firis=Firis`
+
+⚠️ Make sure the left and right sides are the same — this tells the game to replace the original name with your chosen name wherever it appears.
+
 **Known Issues**
 - The in-game UI of a BepInEx mod (like XUnity's GUI) is completely broken. However, this is not an essential function. The patch works without the GUI, and you can edit its configuration in the plugin's `.cfg` file.
 
 **Change Log**
 v0.2
+
 Update Translated Main Story up to CASE02
 
 v0.1 
