@@ -1,3 +1,21 @@
+神の子、悪魔と仲睦まじく=Child of God befriends the Devil
+「仲良く」なるには=How to "get along"
+唯一の存在=The only one that exists
+詐欺師の娘=Fraudster's daughter
+とっても良い方法=Very good method
+一か八か=high-stakes
+連鎖=chain
+期待=expectation
+怪しい雲行き=disquieting turn of events
+欲しいもの=thing (someone) wants
+計画開始=Start of planning
+悪魔の囁き=the devil's whispering
+大抜擢=exceptional promotion
+前向きの後ろで=Behind the forward facing
+「本当」の目的=The "real" purpose
+仮説=hypothesis
+灰色の予兆=Gray portents
+
 # MainScenario-Chapter4-Chapter4-1
 # scenario10200.json
 初めてデートした時のこと、覚えてる？わたしは、すごいドキドキしたことしか覚えてない=Do you remember our first date? All I remember was my heart pounding like crazy.
@@ -7,13 +25,13 @@
 でも、ドキドキしたといえば――=But when it comes to heart-racing...
 あなたの能力……。いつ心を覗かれるかって、ずっと緊張してた=I was nervous the whole time, scared of when you'd peek into my heart with your ability.
 ああ……まあ、そうだよな=Ahh... That's fair, I guess.
-けど、実際覗かれてみたら……。案外分からないものね？拍子抜けした=But once you take an actual look... It's all unexpected to you, right? Your reaction threw me off as well.
+けど、実際覗かれてみたら……。\n案外分からないものね？　拍子抜けした=But once you take an actual look... It's all unexpected to you, right? Your reaction threw me off as well.
 ……俺は全知全能の神様じゃないからな=...Well, I'm not some God who knows everything.
 そろそろ教えてくれ。お前の要求は何なんだ？悪いけど、俺にはもう時間が無いんだ=Isn't it time you tell me what you want? I hate to say it, but I don't have much time.
 うん……。じゃあ、話す。ねえ、リーダー……=Hmm... I'll tell you. Hey, Leader...
 二人で子供、作らない？=Let's make a child together.
 子供……って……いや、お前、この状況で何を……=A child... Wait, no, what're you saying at a time like this...
-びっくりした？ふふっ=Surprised? Fufu.
+びっくりした？　ふふっ=Surprised? Fufu.
 子供って言っても、赤ちゃんじゃないよ？まあ、それはそれで作りたいけど=But when I said child, I didn't mean a baby. Although I don't mind that either.
 わたし、リーダーのこと好きだもん。他の子もみんなそうだったと思うけど――=I love you, Leader, and I'm sure all the others feel the same...
 だから、ほんとはいつもヤキモチ焼いてたんだよ。特に、駒川詩が来てからはね=That's why I was always acting jealous, especially after Uta Komagawa came.
@@ -30,7 +48,7 @@ CASE4. 神の子、悪魔と仲睦まじく=CASE4. Child of God befriends the De
 そんな……やっとこれから一緒に任務に出られるようになったのに……=No way... We finally got to go on missions together...
 私からも説得を試みたが、意志は固いようでな。戦意を失くした者を、戦場に立たせることはできない=I tried to persuade her, but her will is strong. I can't let those who've lost their spirit to stand on the battlefield.
 それで、欠員の補充のため駒川に来てもらったんだ=And so, we've got Komagawa to fill the spot.
-これから“も”よろしくね！$主人公$クン♪=Let's get along from now on "too"! $主人公$-kun ♪
+これから“も”よろしくね！\n{{A}}クン♪=Let's get along from now on "too"! {{A}}-kun ♪
 ……=...
 特殊部隊への編入は、予定通り１ヶ月後だ=Her entry to the Special Force is scheduled to be in one month.
 久野もそれまでは在籍する=Kuno will also stay with us until then.
@@ -42,7 +60,7 @@ CASE4. 神の子、悪魔と仲睦まじく=CASE4. Child of God befriends the De
 久野さんのことを抜きにしても、コズミックファングの奪還を急がなければいけないのは事実でしょう？=Even if we put aside Kuno-san's matter, there's no doubt that we need to hurry on recapturing the Cosmic Fang, right?
 いずれにせよ、私の力は必要なんじゃないですか？=In any case, you'll need my power, won't you?
 ……っ=...Tsk.
-それで、$主人公$クンにもお願いがあるんですけど、たまに任務に同行していいですか？=I also have a favor to ask of you, $主人公$-kun. Can you bring me on missions from time to time?
+それで、{{A}}クンにもお願いがあるんですけど、たまに任務に同行していいですか？=I also have a favor to ask of you, {{A}}-kun. Can you bring me on missions from time to time?
 早く皆さんと慣れたいので♪=I want to get comfy with everyone as soon as possible ♪
 いや、いくらなんでも急では――=No, isn't this too sudden――
 ……止める理由はない。むしろこの学園で一番有能だろうしな=...There is no reason to object. She might well be the most competent person in this academy.
@@ -85,7 +103,7 @@ CASE4. 神の子、悪魔と仲睦まじく=CASE4. Child of God befriends the De
 それにしても、よくそこまで分析したな。正直、そっちの方にビックリしたよ=Rather than your research result, I'm actually more surprised that you nailed the analysis.
 リーダーが毎日遅くまで調べてるって聞いたからさ、私たちも少しは頑張らなくちゃって思って=We heard that you'd been researching late into the night every day, so we figured we should try a bit harder.
 今回の件は、安住さんがみんなに働きかけてくれたんですよ？=Azumi-san had us working on this, you know?
-なっ、ち、違うし！春日が、リーダーのために何か出来ることをしたいっつったんじゃん！=Wha- N- No! You were the one who said you wanna do something for Leader!
+なっ、ち、違うし！　春日が、リーダーのために\n何か出来ることをしたいっつったんじゃん！=Wha- N- No! You were the one who said you wanna do something for Leader!
 ち、違いますっ！=T- That's not true!
 自分の手柄を他人に押しつけ合うのってなかなか貴重な光景だよね～=What a spectacle of pushing your own feat onto one another~
 （みんな、少しずつだけど前向きになってきている）=(Everyone's becoming more optimistic bit by bit.)
@@ -122,10 +140,10 @@ CASE4. 神の子、悪魔と仲睦まじく=CASE4. Child of God befriends the De
 というわけで、全員に紹介しておこう。駒川詩だ。来月からお前たちと一緒に任務にあたる=And so, let me introduce you. This is Uta Komagawa, and she will be going on missions with you all starting from next month.
 駒川詩です。よろしくお願いしまーす♪=I'm Uta Komagawa. Nice to meet yooou ♪
 ！？=?!
-（えっ？うそ………まさか……）=(Huh? No way... This can't be...)
-（……だ、大丈夫だよね？顔は割れてない……はず）=(...I- I should be fine, right? I didn't show it on my face... I think.)
-$主人公$、放課後にでも駒川に学園を案内してやってくれ=$主人公$, give Komagawa a tour around the school after class.
-え？自分がですか？=Eh? Me?
+（えっ？　うそ………まさか……）=(Huh? No way... This can't be...)
+（……だ、大丈夫だよね？　顔は割れてない……はず）=(...I- I should be fine, right? I didn't show it on my face... I think.)
+{{A}}、放課後にでも駒川に学園を案内してやってくれ={{A}}, give Komagawa a tour around the school after class.
+え？　自分がですか？=Eh? Me?
 ごめんなさい、私が司令にお願いしちゃったんです。でも、忙しければ一人で回りますから……=Oh sorry, I asked the Commander for it. But if you're busy, I'll go around on my own, so...
 （変な動きをされても困るし、見張っておいた方がいいか）=(It'd be trouble if she were to pull something behind our back. I suppose it's better to keep an eye on her.)
 ……ああ、わかった=...Sure, I'll show you around.
@@ -160,14 +178,14 @@ $主人公$、放課後にでも駒川に学園を案内してやってくれ=$�
 # scenario10203.json
 で、どうするつもりなんですか？=So? What're you going to do?
 え？=Huh?
-気づいてるでしょう？私が単なる欠員補充で派遣されてきたわけじゃないってこと=You should've realized by now that I'm not just being sent here to fill an empty spot.
+気づいてるでしょう？　私が単なる欠員補充で\n派遣されてきたわけじゃないってこと=You should've realized by now that I'm not just being sent here to fill an empty spot.
 ……ああ=...Yeah.
 ここは異灰防衛の要衝なんです。コズミックファングがあるからなんですけど=This is the critical line for Testa Defense. Well, that's partly because of the Cosmic Fang is here.
-$主人公$クンは、コズミックファングが何なのか知ってますか？=$主人公$-kun, do you know what the Cosmic Fang is?
+{{A}}クンは、コズミックファングが何なのか知ってますか？={{A}}-kun, do you know what the Cosmic Fang is?
 詳しくはわからない=Not the specifics.
 この世とあの世を繋ぐ塔=A tower connecting this world and that world.
 もう少し科学的に言うと、エーテル界とアストラル界を相互に行き来するためのゲートなんです=Precisely speaking, it's a gate for traveling between the Ether Plane and the Astral Plane.
-$主人公$クンが何度もアクセスしている“コモン”は、あの塔を介して繋がってるんです=The place called the "Common" that you've accessed many times now is linked through that tower.
+{{A}}クンが何度もアクセスしている“コモン”は、あの塔を介して繋がってるんです=The place called the "Common" that you've accessed many times now is linked through that tower.
 （司令は「よく知らない」と言っていたが……）=(Yet the Commander didn't know a lot...)
 やたら詳しいな。なんでそんなことまで知ってるんだ？=You seem to be quite knowledgeable. Why do you know so much?
 それは、本部の人間ですから。立場の違いってやつです♪=That's because I'm people from HQ. Consider it a difference in position ♪
@@ -184,12 +202,12 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 （いや、でも駒川さんが言っていることだ。安易に信用するのも危険か）=(No, it's Komagawa-san we're talking about here. I shouldn't believe her so readily.)
 知らなかったでしょ？=You didn't know, did you?
 あ、ああ……=Ah, no...
-よかった♪そうだと思ってました=Awesome ♪ I thought as much.
-中央のお偉いさんは、$主人公$クンのことをあの女の手先だと思ってる節があるんです=Some of the higher-ups from the central think that you're working for her.
+よかった♪　そうだと思ってました=Awesome ♪ I thought as much.
+中央のお偉いさんは、{{A}}クンのことをあの女の手先だと思ってる節があるんです=Some of the higher-ups from the central think that you're working for her.
 けど、私は違うと思ってて！=But I think otherwise!
 俺は……勢力争いのことはよくわからないよ。ただ――=I... Don't really know about these conflicts and whatnot. However――
 一日も早く、みんなでコズミックファングを奪還する。ここに来た日から、そう決めてる=My goal is to recapture the Cosmic Fang with everyone as soon as possible. I've been set on that since the day I came.
-……$主人公$クンが思った通りの人でよかった。安心しました=...I'm glad and relieved to see you're exactly the type of person I imagined you to be.
+……{{A}}クンが思った通りの人でよかった。安心しました=...I'm glad and relieved to see you're exactly the type of person I imagined you to be.
 頑張ってくださいね！私も応援してますから♡=Please do your best from now on! I'll be supporting you as well ♡
 ………=...
 リーダー、出動要請だ。出られるか？=Leader, it's a dispatch order. Can you run it now?
@@ -201,15 +219,15 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 （きららに直接脱退の理由を確かめたいのに、全然捕まらない）=(I wanted to confirm Kirara's reason for quitting, but I'm getting nowhere.)
 （……そういえば未来が読めるんだったな。俺の動きも読まれてるってことか）=(...Right, she can also see the future. I wonder if my actions are being read too.)
 （これじゃ１ヶ月後まで逃げきられてしまう。どうするべきか……）=(She could easily run from me for a whole month. What should I do then...)
-何？ため息なんかついて。こっちもテンション下がるんだけど=Why're you sighing like that? You're ruining the mood.
+何？　ため息なんかついて。\nこっちもテンション下がるんだけど=Why're you sighing like that? You're ruining the mood.
 菜々花……=Nanaka...
 （そうだ。バディの菜々花に聞けば、何か手がかりが見つかるかもしれない）=(That's right, maybe I can get some hints from Nanaka since she's Kirara's Buddy.)
 いや、最近きららの様子が変じゃないか？ちょっと心配になってさ=You know how Kirara's been acting weird lately? I'm a bit worried.
-え？あいつはいつも変でしょ=Eh? She's weird all the time though.
+え？　あいつはいつも変でしょ=Eh? She's weird all the time though.
 いや、そうなんだけど。そういうことじゃなくて=I mean that's true, but that's not what I meant.
 まぁ、確かにちょっと違和感あるかも=Well, something does feel a bit off.
 せっかく一緒に任務に出るって言ってるのに、なんかそんなに嬉しそうじゃないっていうか……=We finally got to go on missions together but she doesn't seem all that happy about it...
-苦しそう？みたいな=It's like... She's suffering?
+苦しそう？　みたいな=It's like... She's suffering?
 別にきららを喜ばせるためだけに復帰したわけじゃないけど……ちょっと拍子抜けって感じ=I wasn't resuming my duties to entertain her or anything, but it still throws me off.
 （確かに、菜々花の復帰を一番望んでいたのはきららだ）=(Yeah, Kirara was hoping for Nanaka's return the most.)
 （普通に考えれば、嬉しそうにするはずなのに……）=(Normally, you'd expect her to be happy about it...)
@@ -245,7 +263,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 あ、あっちからも異灰来てる！=Oh, Testa are coming from that way!
 もー、そんなにわたしと戦いたいわけ？……仕方ない、相手してあげる=Geez, you really want to fight me that much? ...Fine, be my guest.
 リーダー、サポートお願いね！=Leader, back me up!
-あ、ああ！わかった！=A- Ah, sure!
+あ、ああ！　わかった！=A- Ah, sure!
 
 # MainScenario-Chapter4-Chapter4-3
 # scenario10205.json
@@ -341,15 +359,16 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 私も居残り組で。雑念のせいで、迷惑かけてもいけないし=I'm also staying. I can't afford to let my thoughts get in the way.
 詩帆ときららは？=What about Shiho and Alesia?
 わたしは……=I...
-い、行きますっ！=I- I'll go!
+い、行きますっ！=I-I'm going!
+はーい！　かんな行きたーい！=I- I'll go!
 大丈夫？無理しなくてもいいんだよ？=Are you sure? You don't have to force yourself.
 無理してるわけじゃなくて、そろそろわたしも、ちゃんと頑張りたくて……=I'm not forcing myself. I just figured, it's about time I start making some real contribution...
-あ、それに！遠征ともなれば体力の消耗もありますから回復班はいつも以上に重要かと思いますし！=Ah, that's right! An expedition would consume quite a lot of stamina, so I think having a healer is more important than usual!
+あ、それに！　遠征ともなれば体力の消耗もありますから\n回復班はいつも以上に重要かと思いますし！=Ah, that's right! An expedition would consume quite a lot of stamina, so I think having a healer is more important than usual!
 ああ、確かにその通りだよ。助かる=You're right on that. It'd help a lot.
-はい！えへへ……=Right! Ehehe...
+はい！　えへへ……=Right! Ehehe...
 じゃあ、そうなると――=Then that means...
 遠征班は“りすくつ”と、菜々花＆きらら組か……=The expedition party is "Ri-Shoe" with Nanaka and Kirara...
-えーっ！そんなのずるい！あやみんも行こうよー！=Whaat? That's not fair! Let's go together, Ayamin!
+えーっ！　そんなのずるい！\nあやみんも行こうよー！=Whaat? That's not fair! Let's go together, Ayamin!
 ごめんね～お姉さん、歩くの苦手だから。タクシー使っていいなら行くんだけど～=I'm sorry~ Big sis is not good with long distances. I'd go if I could ride a taxi though~
 山道をタクシーで行けるわけないし=Ain't no way a taxi's going through the hills.
 菜々花、大変な任務だけどよろしく頼む=Nanaka, this will be a tough mission but I'll be depending on you.
@@ -361,7 +380,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 いや、わたしたちはそういうの要らないし。ね、きらら=No, we don't need that kind of thing. Right, Kirara?
 え？あ、おう……=Eh? Uh, yeah...
 改めてよろしく。不安しかないけど=Let's do our best, though I feel nothing but anxiety.
-は？多少なまってても、あんたよりは役に立つ自信あるけど？=You what? I'm pretty sure I'll be more useful than you even when I'm rusty though?!
+は？　多少なまってても、\nあんたよりは役に立つ自信あるけど？=You what? I'm pretty sure I'll be more useful than you even when I'm rusty though?!
 それより、春日が足引っ張らないように、ちゃんと見張っててよね=Moreover, you better look after Kasuga so that she don't get in our way.
 だ、大丈夫です森崎さん！頑張りますから！=I- It's fine, Morisaki-san! I'll do my best!
 （……しまったな。よくよく考えてみれば、この２組って相性最悪じゃないか……）=(...Crap. The more I think about it, these two pairs are the least compatible...)
@@ -377,7 +396,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 （手が掛かる子ほど可愛い……か。まあ、否定はしないでおこう）=(And they say the more of a handful the kids are, the cuter they are... Well, let's not deny that.)
 （けど、こうしてみんなで任務の話をしてるなんて、来たばかりの頃からは想像もできない）=(Still, I would've never imagined talking about missions with everyone like this back when I first came here.)
 （本当に、変わったな……）=(...Everyone has really changed.)
-リーダー、なにニヤけてるの？キモい=Leader, what're you smirking about? That's kinda gross.
+リーダー、なにニヤけてるの？　キモい=Leader, what're you smirking about? That's kinda gross.
 えっ？=Eh?
 リーダー、一体どういうつもりだ？=Leader, what is the meaning of this?!
 辞めようとしている人間を、作戦の中心に据えるなど=Putting the person who is about to quit at the center of an operation...
@@ -403,7 +422,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 あっ、いえ、そういうことを聞きたいわけじゃなくて――=Oh, that's not quite what I was after...
 ただ、さっき部室でとっても不安そうな顔をしていたから……心配になって声をかけちゃいました=It's just that you looked very sad in the room alone... So I reached out because it got me worried.
 ……=...
-ねえ、久野さんはなんで$主人公$クンがあんな作戦を立てたのか、知ってます？=Hey. Do you know why $主人公$-kun's planning such an operation?
+ねえ、久野さんはなんで{{A}}クンがあんな作戦を立てたのか、知ってます？=Hey. Do you know why {{A}}-kun's planning such an operation?
 いや……=No...
 実はですねぇ……久野さんの脱退を止めるためなんですよ～♪=To tell the truth... It's to stop you from quitting ♪
 ここで戦果をあげて、今のチームで十分に機能することを証明しようとしているんです=He's trying to have you achieve something in order to prove that the team is functioning well enough right now.
@@ -411,7 +430,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 そうだったのか……=Is that so...
 とはいえ、コズミックファングの奪還はそう簡単なことではありません=However, recapturing the Cosmic Fang is easier said than done.
 これまで何度も小隊が派遣されていますが、全て失敗しています=Many squads have been sent many times, and they have all failed.
-でも$主人公$クンは、あなたに期待している=But $主人公$-kun has high expectations from you.
+でも{{A}}クンは、あなたに期待している=But {{A}}-kun has high expectations from you.
 あなたならできるって信じきっています=He believes that you can do what needs to be done.
 この期待には応えないと、ですよね？=You can't possibly let him down now, can you?
 ……=...
@@ -429,9 +448,9 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 ……っ=...!
 きららは……きららは一体どうすれば……=Then... Then what should Kirara...?
 今すぐにみんなの力になれる、とっても良い方法があります=I know of a good way for you to be of use for everyone, right now.
-これで安住ちゃんと足並みを揃えることができますし、$主人公$クンの期待にも応えられます♪=This way, you can keep up the pace with Azumi-chan and meet $主人公$-kun's expectations ♪
+これで安住ちゃんと足並みを揃えることができますし、{{A}}クンの期待にも応えられます♪=This way, you can keep up the pace with Azumi-chan and meet {{A}}-kun's expectations ♪
 そ、そんな都合の良い方法があるわけ――=T- There's no way such convenient way――
-じゃあ、このまま$主人公$クンを裏切るんですか？=So you're just gonna disappoint him?
+じゃあ、このまま{{A}}クンを裏切るんですか？=So you're just gonna disappoint him?
 ……それは嫌だ=...I'd hate to.
 ふふっ、なら手助けしてあげます。私の言う通りにしてください=Fufu, then I'll give you a hand. Just do as I say.
 ……=...
@@ -445,13 +464,13 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 流石、言うだけのことはあるな=You're as good as they say you are, as expected.
 そう？でもやっぱり身体なまってるかも=You reckon? But I think my body's kinda rusty.
 なまっててこのスピードか。今回ほとんど菜々花が倒したんじゃないか？=You're this strong despite being rusty? You almost took down everything by yourself, you know.
-ふっふ～ん。見直した？=Heh heh, are you impressed?
+なーに？　負け惜しみ？=Heh heh, are you impressed?
 今回早く倒せたのは、きららの予言のおかげで、敵の背後を突けたからでしょう？=We were only able to finish so quickly because we ambushed the enemies from behind. All thanks Kirara's foresight, no?
 なーに？負け惜しみ？=What's that? Frustrated of my performance?
 まさか=Of course not.
 貴方が任務をボイコットしてる間にどれだけ異灰被害が増えたか=Do you even understand the damage that was done by Testa when you were abandoning your duty?
 その罪は決して消えない。反省する能力は無くても、せめて自覚して=Your sins will not be washed away. At least be aware of it, even if you don't have the ability to introspect.
-は？なにそれ！あんただって、言うほど出動してなかったじゃん=Huh? What's that?! You weren't going on many missions either!
+は？　なにそれ！\nあんただって、言うほど出動してなかったじゃん=Huh? What's that?! You weren't going on many missions either!
 二人とも、やめてください！=You two, please stop already!
 遠征中はケンカするなって言っただろ=I asked you not to fight during the expedition, didn't I?
 ケンカじゃない。教育的指導=This is not a fight. This is educative guidance.
@@ -473,7 +492,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 はぁ、はぁ……同感です。ここならあまり灰も降ってませんし=Pant, pant... Same here. The Ash isn't falling around here either.
 （確かに、ここから先、何があるかわからないし、少しだけでも休んだ方がよさそうだ）=(It's true that we don't know what's ahead of us, so we better get some rest while we can.)
 じゃあ……周りの異灰を片づけてから休憩にしよう=Let's rest here after taking care of the Testa in the area.
-えー！この状態で戦うの？=Whaat! We fighting in this condition?
+えー！　この状態で戦うの？=Whaat! We fighting in this condition?
 安全を確保しないと、落ち着いて休めないだろ=We can't rest easy if we don't ensure our safety first.
 もうひとふんばりだ。頑張ってくれ=Just give it one last push.
 はーい……=Alriiight...
@@ -499,11 +518,11 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 うむ。きららのレーダーは現在グリーンランプ。今のうちに休めるだけ休んでほしい=Yuppie. It's all green on Kirara's radar at the moment, so do rest as much as you can now.
 リーダーさん、紅茶のおかわりどうぞ。今度はロゼロワイヤルっていうお茶なんですけど――=Leader, have some black tea. This time I made something called Royal Rose...
 ああ、ありがとう。詩帆の旦那さんになる人は、幸せ者だな=Ohh, thank you. Shiho's husband is blessed, whoever they end up being.
-ひぇっ！？い、いえ、そんな！ただ実家が喫茶店だったからそれで色々と……=Huwat?! That's not...! It's just that my family ran a café and I learnt quite a lot...
+ひぇっ！？　い、いえ、そんな！\nただ実家が喫茶店だったからそれで色々と……=Huwat?! That's not...! It's just that my family ran a café and I learnt quite a lot...
 リーダー！=Leader!
 ん？=Hmm?
 はい、マシュマロ。焼けたからあげる=A marshmallow, but it's burnt so you can have it.
-むぐっ！あつ、あつっ！！=Ahmmm?! Hwt hwt hwt!!
+むぐっ！　あつ、あつっ！！=Ahmmm?! Hwt hwt hwt!!
 はい、リーダーお水=Leader, have some water.
 ……っはぁ……ありがとう=...Phew ...Thank you.
 菜々花の結婚相手は、命がいくらあっても足りなそうね=Nanaka's marriage partner won't live long.
@@ -516,7 +535,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 別に。ただ……任務に対して前向きに考えるようになっただけ=It's nothing. I just... I figured I should think more optimistically about my duty.
 ……本当にそれだけかしら=I wonder if that's really all there is to it...
 （……何の話をしてるんだか）=(...What are they talking about?)
-（あれ？きららは？）=(Hm? Where's Kirara?)
+（あれ？　きららは？）=(Hm? Where's Kirara?)
 きらら、そんな所にいたのか=Found you, Kirara.
 リーダー=Leader.
 リーダーは約束を守る男だった。ちゃんとなーなを助けてくれた=You're a man who keeps his promises. You helped Naana with her problems.
@@ -529,7 +548,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 # MainScenario-Chapter4-Chapter4-6
 # scenario10210.json
 ……これで７体殲滅。菜々花は？=...And that's seven Testa eliminated. How about you?
-なに、嫌味？６体だけど！=I got six! Are you showing off?!
+なに、嫌味？　６体だけど！=I got six! Are you showing off?!
 とりあえず視界の範囲内には、もういなさそうだね=There are no Testa in sight anymore for now, it seems.
 山の神も、この辺りにはもういないと言ってる=The God of Mountains is saying there's none around as well.
 お疲れさまでした！回復が必要な人は言ってください！=Good work, everyone! If anyone needs healing, please tell me!
@@ -551,23 +570,23 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 もう、きららだけが頼みの綱だな……=We can only rely on Kirara from here on out...
 こっちこっち=This way!
 もう少しペースを下げられるか？=Can you slow down a bit?
-久野さん？久野さーん！=Kuno-san? Kuno-san!
+久野さん？　久野さーん！=Kuno-san? Kuno-san!
 きらら、待って！=Kirara, wait!
 あっ、安住さんっ！！=Ah, Azumi-san!!
 リーダーさん、大変です！前の二人が見えなくなりました……=Leader, this is bad! We lost the two of them...!
-おーい！きらら、菜々花！一旦止まってくれ！！おーーい！=Heeey! Kirara, Nanaka! Stop for a second!! Heeeey!
+おーい！　きらら、菜々花！　一旦止まってくれ！！\nおーーい！=Heeey! Kirara, Nanaka! Stop for a second!! Heeeey!
 ……はぐれたみたいね=...Seems like we're separated.
 詩帆、アレシア、トランシーバーを使おう=Let's use the transceivers!
-こちら、$主人公$！きらら、菜々花、応答頼む！=This is $主人公$! Kirara, Nanaka, please respond!
+こちら、{{A}}！きらら、菜々花、応答頼む！=This is {{A}}! Kirara, Nanaka, please respond!
 『リーダー、どこ！？ちゃんとついてきてよ！』=『Where are you, Leader? You should've followed tight!』
 そっちこそどこなんだよ！？あと、きららは！？=I should be the one asking that! And where's Kirara?!
 『きらら、どんどん行っちゃって、見失って――』=『She kept on going and I lost her――』
-『あ、いたっ！きららー！』=『Wait, I found her! Kiraraー!』
-……。きらら！聞こえてたら応答してくれ！=......Kirara! Answer me if you can hear this!
-『はあ！？ちょ、ちょっときらら！』=『Hah?! H- Hold on, Kirara!』
-『……って………む………す……る……』=『...s ...... ...n ...』
-『ちょっと！きらら！待って！！』=『Hold on, Kirara! Wait for me!!』
-おい！どうした菜々花！どうした！！=Hey, what's wrong, Nanaka?! What's happening?!!
+『あ、いたっ！　きららー！』=『Wait, I found her! Kiraraー!』
+……。\nきらら！　聞こえてたら応答してくれ！=......Kirara! Answer me if you can hear this!
+『はあ！？　ちょ、ちょっときらら！』=『Hah?! H- Hold on, Kirara!』
+『……って……　…む…　……す……る……』=『...s ...... ...n ...』
+『ちょっと！　きらら！　待って！！』=『Hold on, Kirara! Wait for me!!』
+おい！　どうした菜々花！　どうした！！=Hey, what's wrong, Nanaka?! What's happening?!!
 ………=......
 何か良くないことが起きてるみたい=Seems like something bad is happening.
 ……怖い=...I'm scared.
@@ -584,14 +603,14 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 ん？=Hm?
 元々計画されていたものだとしたら？=What if this was all planned?
 …っ！？=...?!
-……誰が？何のために？=...By who? And for what?
+……誰が？　何のために？=...By who? And for what?
 心当たりはない？=Got any ideas?
 ……=...
 ……リーダーさん=...Leader?
 ……いや、まさか=No, could it be...?
-……おい！菜々花！きらら！！返事をしろ！おい！！=...Hey! Nanaka! Kirara!! Repond to me! Hey!!
+……おい！　菜々花！　きらら！！\n返事をしろ！　おい！！=...Hey! Nanaka! Kirara!! Repond to me! Hey!!
 ……！？=...?!
-ど、どうしたんですか？森崎さん！=W- What is it, Morisaki=san?!
+ど、どうしたんですか？　森崎さん！=W- What is it, Morisaki=san?!
 こっちも、人の心配をしていられないかもしれない=We're not in a place to worry about others.
 ちょっときらら。さっきから飛ばし過ぎじゃない？=Hold on, Kirara... Aren't you running too far ahead?
 いや、大丈夫=No, this is fine.
@@ -600,6 +619,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 ……っ=...!
 えっ、ちょっと、きらら！？=H- Hey, Kirara?!
 な、なにこれ……どういうこと……=W- What is this... What's going on...?
+
 
 # MainScenario-Chapter4-Chapter4-7
 # scenario10212.json
@@ -630,28 +650,28 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 ……手。繋げば少しは紛れるかも=...Hold hands. It might be able to distract us a little.
 ……うん=......Sure.
 ……くそっ、どこだよ。そんなに遠くまでは行ってないと思うけど……=...Damnit, where are they? They can't have gone that far...
-おーい！菜々花！！きららー！！=Heeey! Nanaka!! Kirara!!
+おーい！　菜々花！！　きららー！！=Heeey! Nanaka!! Kirara!!
 ……=...
 無事でいてくれ=Please be safe...
-『リーダー、いるか？応答してくれ！』=『Leader, can you hear me? Please respond!』
-美岐！どうした？=Meiqi! Where are you?
+『リーダー、いるか？　応答してくれ！』=『Leader, can you hear me? Please respond!』
+美岐！　どうした？=Meiqi! Where are you?
 『すまない、応援に行っている場合ではなくなった！異灰の動きが活発に……って……』=『Sorry, but we're not able to come and help out anymore! Testa activities just got a lot... -e...』
 なんだって！？=What is it?!
 『……めだ……また状況………報告する……健闘を……』=『...-s bad. We'll repor-... -tuation... -d luck...』
-おい、ちょっと待て！おい！！=Hey, wait a minute! Hey!!
+おい、ちょっと待て！　おい！！=Hey, wait a minute! Hey!!
 くそっ！！=Shit!!
 
 # MainScenario-Chapter4-Chapter4-7-2
 # scenario10213.json
 はぁ……はぁ……なんでこんなことに……っ=Pant... Pant... Why are things turning out like this...
 ……だいぶ視界が良くなってきた=...The weather is a lot better now.
-菜々花！！きららー！！=Nanaka!! Kiraraaa!!
+菜々花！！　きららー！！=Nanaka!! Kiraraaa!!
 ……！？=...?!
 きらら！=Kirara!
 こ、これは……何があったんだ！？=T- This is... What happened to her?!
-わたしもわかんない！普通に一緒に戦ってたら、きららが急にふらつき出して、倒れて……=I don't know either! We were fighting as usual, but then she got wobbly all of a sudden and collapsed...
+わたしもわかんない！　普通に一緒に戦ってたら、\nきららが急にふらつき出して、倒れて……=I don't know either! We were fighting as usual, but then she got wobbly all of a sudden and collapsed...
 （この感じ、見たことがある。まさか……）=(This feels familiar. Don't tell me...)
-異灰化……現象……<color=#00000000>えうああ、えんおう</color>=Testification...
+異灰化……現象……<color\=#00000000>えうああ、えんおう</color>=Testification...
 嘘……！<color=#00000000>うお</color>=No way...!
 きららは今日はとても頑張っていた。力の使いすぎでこうなってしまったのかもしれない=Kirara's been working very hard today. It's possible that she overused her power and caused this.
 けど、ここまで急に進行するのは前例にないはず=But I'm sure there's no record of Testification that's this rapid!
@@ -664,8 +684,8 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 よし……いくぞ……=Alright... Here I go...!
 きららの心の中に入り込めたか。異灰化はしてないみたいだな……=Now I'm inside of Kirara's heart. It doesn't seem to be Testifying...
 ――って、な……なんだこれは！？=――Wait, w... What is this?!
-駒川さんっ！いるんだろ！？=Komagawa-san! I know you're here!
-出てきてくれ！おい！！=Come out and face me!
+駒川さんっ！　いるんだろ！？=Komagawa-san! I know you're here!
+出てきてくれ！　おい！！=Come out and face me!
 駒川詩！！=Uta Komagawa!!
 ――！？=......?!
 きらら！=Kirara!
@@ -687,9 +707,9 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 ということはやっぱり、何か取引したんだな！？=So you DID form some sort of pact! Tell me, what was the deal?!
 うっ……と、取引というほどのものでもない！=Urg... I- It wasn't even a deal!
 「リフレクター」から言われた通りにしただけだ！=I just followed what the "Reflector" said!
-リフレクター？何だそれは？=Reflector? What's that?
+リフレクター？　何だそれは？=Reflector? What's that?
 いずれにせよ、リーダーは何の心配もしなくていい。全部きららに任せておけば、みんな幸せ=Anyhow, there's nothing you should worry about. Let Kirara take care of everything, and everyone shall be happy.
-きらら、だめだ！せめて、どういう契約なのか俺に相談してくれ！頼む！=Don't do it, Kirara! At least talk to me about what deal you made! Please!
+きらら、だめだ！　せめて、\nどういう契約なのか俺に相談してくれ！　頼む！=Don't do it, Kirara! At least talk to me about what deal you made! Please!
 もう無理。既に繋がってるから=Can't do. I'm already connected.
 なっ……クイーン！？=Wha... A Queen?!
 
@@ -715,7 +735,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 （……くそっ、こうして考えてる間にも時間が……）=(...Damnit, time's running out as I'm thinking...!)
 ……=...
 （こうなったら、一か八かやってみるしかないか）=(...I guess I have no choice but to give it a shot!)
-きらら、頼む！心を開いてくれ！=Kirara, please! Open your heart for me!
+　きらら、頼む！　心を開いてくれ！=Kirara, please! Open your heart for me!
 やめて！=Stop it!
 くっ……！=Nn...!
 （きららから拒絶されている……）=(She's rejecting me...)
@@ -723,8 +743,8 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 （ここが心の中である以上、きららに受け入れられないと、何をしても意味がない）=(As long as I'm inside Kirara's heart, there's nothing I can do if she doesn't accept me.)
 やめて、リーダー。きららは、これ以上みじめな思いをしたくない=Stop it, Leader. Kirara doesn't want to bear any more shame than this.
 きららの中から出てって=Get out of me.
-……っ！なんだこの力は！どんどん強くなって……=...! What's with this power?! It's getting stronger...!
-きらら！きらら！しっかりして！！=Kirara! Kirara! Hang in there!!
+……っ！　なんだこの力は！\nどんどん強くなって……=...! What's with this power?! It's getting stronger...!
+きらら！　きらら！　しっかりして！！=Kirara! Kirara! Hang in there!!
 ……菜々花！？=...Nanaka?!
 リーダー！きららはどうなってたの！？=Leader! What's happening to Kirara?!
 残念だけど、俺一人の力ではどうすることもできない=It's unfortunate, but I can't do anything with my own power.
@@ -735,7 +755,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 わからない。とにかく今は――=I don't know, but for now――
 とりあえずこいつを叩こう。きららを安全なところに！=Let's beat them up and move Kirara to safety first!
 リーダーさーんっ！！=Leeeader!!
-詩帆！アレシア！！=Shiho and Alesia!!
+詩帆！　アレシア！！=Shiho and Alesia!!
 加勢する=We'll back you up.
 
 # MainScenario-Chapter4-Chapter4-9
@@ -770,7 +790,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 大丈夫そうか？=...Think you can do it?
 じゃあ、悪いけど……手を貸してくれ=Well, excuse me then... Lend me your hand.
 ………っ！=......!!
-どうした？大丈夫か？=What happened? Are you okay?
+どうした？　大丈夫か？=What happened? Are you okay?
 だ、大丈夫……ちょっと息切れしただけ……=Y- Yeah... I just couldn't catch my breath for a second...
 きららを……助けるためなんだから……っ=This is to save Kirara...!
 エーテル空間にいる間、俺たちは無防備になる。だから二人とも、その間……頼んだ=We'll be completely defenseless when we're in the Ether Space, so you two... Please take care of us in the meanwhile.
@@ -795,7 +815,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 でも、今のなーなは違う。強い意志があって、実力もあって、前に進もうとしてる。きららを置いて=But you're different now. You have a strong will, and strength too. You're trying to move forward, leaving Kirara behind.
 だから、今のなーなは……嫌い=That's why... I hate you right now.
 なーな、きららを置いてかないで=Naana... Please don't leave me behind.
-……は、はぁ？何勝手なこと言ってんの？=...H- Hah? What nonsense are you talking about?
+……は、はぁ？　何勝手なこと言ってんの？=...H- Hah? What nonsense are you talking about?
 そんなこと言うきららなんて、わたしだってきら――=You know what? If that's really what's on your mind, then I――!
 きららは今、正常な状態じゃない。言葉を選べるような状態じゃないんだ=Kirara's not in a normal state. She's can't afford to choose her words carefully.
 だからこそ、俺たちは落ち着いて話そう=That's why we need to stay calm and talk it out.
@@ -835,7 +855,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 リーダー！きっと今ならクイーンを追い出せる！=Leader! Now we should be able to kick the Queen out!
 お願い、力を貸して！=Please, lend me your strength!
 わかった！=Got it!
-……きらら、菜々花！大丈夫か！=...Kirara, Nanaka! Are you okay?!
+……きらら、菜々花！　大丈夫か！=...Kirara, Nanaka! Are you okay?!
 わたしは大丈夫。きららはまだ寝てるけど……=I'm fine, but Kirara's still sleeping...
 よかった。瘴気が消えてる=Thank God, the aura is disappearing.
 リーダーさん、お帰りなさい！=Welcome back, Leader!
@@ -862,15 +882,15 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 はぁ！？あんたたちだって靴売ってないし、リスもいないじゃん！=What's that?! You ain't selling shoes and there's no squirrels either!
 それとこれとは関係ない。私“旅団”にはこだわりがあるの。いい加減なのは認められない=That has nothing to do with this. I have my fixation with "brigades" so I won't approve of half-hearted ones.
 どうどう、落ち着くのだ。どっちもネーミングセンスはどっこい=There there, no need to argue... because both sides have totally lost their naming senses!
-どっこい？わたしたちの方が絶対センス良いもん=Lost? Our name definitely has better taste.
+どっこい？　わたしたちの方が絶対センス良いもん=Lost? Our name definitely has better taste.
 いや、悪いとは言ってない。ただ、ちょっとメルヘンだなと思っただけで=No, I'm not saying it's bad. I just thought it sounded like something from a fairy tale.
-い、いいでしょ別に！好きなのこういうのが！あんたも知ってるでしょ！=T- That's nobody's business, alright?! You know exactly! That I'm into this sort of stuff!
+い、いいでしょ別に！\n好きなのこういうのが！　あんたも知ってるでしょ！=T- That's nobody's business, alright?! You know exactly! That I'm into this sort of stuff!
 ふふふ……=Hehehe...
 よかったですね、リーダーさん。任務中も久野さんの笑顔が見られるようになって=This is great, Leader. We got to see Kuno-san smile even on a mission.
 ……=...
 ……リーダーさん？=...Leader?
-……あ？ああ、ごめん=...Huh? Ahh, sorry.
-まだ気にしてるの？美岐とかんなのこと=Are you still worrying about Meiqi and Kanna?
+……あ？　ああ、ごめん=...Huh? Ahh, sorry.
+まだ気にしてるの？　美岐とかんなのこと=Are you still worrying about Meiqi and Kanna?
 ……=...
 はぁ……。だから、リーダーのせいじゃないってば。どうせ戦ってるとき、石にでも躓いたんでしょ？=Sigh... We told you it's not your fault. Pretty sure she just stumbled on some rock while fighting or something.
 ……どう、調子は？=...How are you feeling?
@@ -886,14 +906,14 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 あ、いや……きららを引き留めることができてほっとしたという意味だ=Oh, uh... I mean, I'm relieved that we get to keep Kirara.
 ただ、もし私に力があれば……=But if only I had the power...
 ……いや、なんでもない。過ぎたことだ=...No, nevermind. It's all in the past already.
-あ、やっとつながった！も～、ずっと既読無視されて、すっごく、すっっごく……=Ah, you finally picked up! Geez~ You've been leaving me on read lately, that makes me really reeealy...
+あ、やっとつながった！　も～、ずっと既読無視されて、\nすっごく、すっっごく……=Ah, you finally picked up! Geez~ You've been leaving me on read lately, that makes me really reeealy...
 興奮しちゃったんですから～♡=Really excited~ ♡
 私の扱い、心得てますね♪……もう、ほんとは嬉しいくせに=You're really getting the hang of treating me ♪ ...You know you're actually happy about it.
-……ん？計画ですか？この前お伝えした通り、順調です♪=...Hm? The plan? It's going smoothly, just as I told you before ♪
+……ん？　計画ですか？\nこの前お伝えした通り、順調です♪=...Hm? The plan? It's going smoothly, just as I told you before ♪
 データは充分に取れていますが、このままもう少し、様子を見ようかなって思ってます=I've collected enough data, but I thought I should observe for a while longer.
 あの子たちには“利用価値”があるんですから――=It's because they have their "use values"――
 きらら、今回は本当にごめんな=Kirara, sorry about the whole thing.
-？何がだ？=Hm? About what?
+？　何がだ？=Hm? About what?
 俺の計画のせいで追い込んでしまって。そのせいで危険な目に遭わせてしまった=I drove you into a corner with my plan, and you were exposed to such danger because of it.
 コズミックファング奪還を目指すなら、もう少し慎重になるべきだった=If I hope to recapture the Cosmic Fang, I should be more careful than this...
 いや、それはきららが勝手にやったことだから=No, it was Kirara's own selfish acts.
@@ -907,7 +927,7 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 当日だけじゃなくて、準備する過程も仲良くなるのにうってつけ♪=And before the party, you get to build bonds while making preparation too ♪
 ほら、文化祭マジックって言葉があるでしょ？=You know what they say about the "magic of Cultural Festivals," right?
 いや、その後すぐ別れるのも含めてマジックって言うんでしょ=Halt, I'm pretty sure "going your separate ways right after" is also part of the magic.
-あら、そうだっけ？うっかりしちゃった♪=Ara, is that true? That's careless of me ♪
+あら、そうだっけ？　うっかりしちゃった♪=Ara, is that true? That's careless of me ♪
 でも、リーダーと詩帆の歓迎会もまだだったし、ついでにどう？=But how about we double it as a "Leader & Shiho Welcome Party"?
 たしかに。忘れてた=That's right, we totally forgot.
 まぁ、色々バタバタしてたからね。……主にわたしたちのせいで=Yeah, we had too much on our plates. ...Well, that was mostly our fault.
@@ -916,5 +936,4 @@ $主人公$クンが何度もアクセスしている“コモン”は、あの
 やけに乗り気だけど……彩未も誰か、もっと仲良くしたい人がいるのか？=Ayami, you seem to be going with the flow, but... Is there someone you want to get closer to?
 お姉さんは、み～んなと仲良くしたいかな=You could say that big sis wants to get closer with everyone~
 ……もちろん、詩ちゃんともね=...And of course, with Uta-chan too.
-CASE4. 神の子、悪魔と仲睦まじくTHE END.To Be Continued…=CASE4. Child of God befriends the Devil THE END.
-To Be Continued...
+CASE4. 神の子、悪魔と仲睦まじく　THE END.\nTo Be Continued…=CASE4. Child of God befriends the Devil THE END.\nTo Be Continued...

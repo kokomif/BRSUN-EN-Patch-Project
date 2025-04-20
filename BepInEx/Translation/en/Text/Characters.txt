@@ -31,6 +31,7 @@
 平原 陽桜莉=Hirahara Hiori
 司城 あやか=Shijou Ayaka
 
+
 #<!-- Unknown Charcter Name --!>
 不思議な雰囲気の少女=Girl in mysterious aura
 活発な少女=Livly Girl
@@ -43,6 +44,8 @@
 破滅の刻を紡ぐ少女=Weaver of the Destruction Hour
 楔となりて世を御す少年=Linchpin, Controller of World
 
+望月 樹里=Juri Mochizuki
+
 #<!-- Hiragana Character Name -->
 たかおか　  ゆきこ    =たかおか　  ゆきこ
 シャオ メイチー =シャオ メイチー
@@ -54,6 +57,9 @@
 もりさき　　　　　　　　 ゆう=もりさき　　　　　　　　       ゆう
 くの　　　　　　=くの 		きらら
 こまがわ うた =こまがわ うた
+
+
+もちづき    じゅり  =もちづき    じゅり
 #<!-- Intro Character --!>
 
 #Meiqi
@@ -87,6 +93,10 @@ CV : 大野 柚布子=CV : Yuzuko Ono
 
 神出鬼没な謎の少女。\n過度に人なつっこい雰囲気を持つが、言葉の端々に\n意味深なニュアンスを含んでいたり油断できない。\n主人公と似た能力を持っているようだが…=A mysterious girl who appears and disappears from the world with an excessively friendly atmosphere, but her every word contains a meaningful nuance, and she can't be trusted.
 CV : 田辺 留依=CV : Rui Tanabe
+
+#nanaka
+夢を追いかける少女。気も強ければ我も強いが、\nそれは彼女なりに身につけた生き延びる術。\n人に群れず、頼らず、大概のことは自分でこなす。 任務に参加していた頃は上位の功績を収めていた。=A girl chasing her dreams, she is strong-willed and egotistical, but she has learned to survive in her own way; she doesn't crowd, she doesn't rely on others, and she can do most things on her own. She was a top achiever when she was on the mission.
+CV : 田中 美海=CV : Mimi Tanaka
 
 
 #<!-- Characters Costume Name -->

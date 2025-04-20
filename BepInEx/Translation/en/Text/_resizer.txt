@@ -17,6 +17,8 @@
 /StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_08(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXT_mess=ChangeFontSizeByPercentage(0.7)
 /StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_14(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXTP_name=ChangeFontSizeByPercentage(0.7)
 /StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_14(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXT_mess=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_03(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXTP_name=ChangeFontSizeByPercentage(0.7)
+/StageRotate/StageTransition/ADV/UI/BackwardCanvas/NameTelop_L_03(Clone)/NameTelopObj/Telops/Setumei/BG/Alpha/TXT_mess=ChangeFontSizeByPercentage(0.7)
 
 #Battle Menu Selection
 /UI(Clone)/HeaderCanvas/UISafeArea/OverlayLayer/UISafeArea/UI_sub_QuestInfo(Clone)/PNL_SubWin/PNL_V_color/spacer/PNL_mission/PNL_item/PNL_title/TXTP_title=ChangeFontSizeByPercentage(0.7)
