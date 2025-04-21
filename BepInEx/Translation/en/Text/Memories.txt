@@ -1,0 +1,72 @@
+ヒロインシナリオ=Heroine scenario
+ココロシナリオ=Kokoro Scenario
+#Heroine Scenario
+
+#<- MEIQI ->
+#Scenario Title
+私が決めた、ハッピーエンド=A happy ending I decided on
+変わりたい私と、変わり始めた私=I want to change, and I'm starting to change
+独り言は、独り言のままじゃいられない=Talking to myself won’t keep me talking to myself
+気づいてほしい、気づかないでほしい。=I wanted her to notice, and I didn't want her to.
+思い出話を、電波に乗せて。=Let's talk about our memories on the radio.
+脈拍と、ゼロ距離コミュニケーション=Pulse and Zero Distance Communication
+並ぶ二人に、突撃インタビュー=Assault interviews with the two lined up
+迷宮探索の、予行演習=Expeditionary Labyrinth Exploration
+掴めない、君の思い=I can't grasp your feelings
+変わりたい私と、変われない私=I want to change, and I can't change
+諦めに、捕らわれて。=I was caught in resignation.
+メイニャンの独り言アフタースクール=Maynyan's afterschool for talking to herself
+思わぬ仲間と、チョコミント味の絆=An unexpected bond of chocolate mint flavor with an unexpected companion
+その出会いは運命か、はたまた。=That meeting must have been fate.
+現世発、霊界行き通信=From the real world, to the spirit world
+少しだけ崩された、私のルーティーン=A little broken, my Rutin
+
+
+ラジオと私と、ほんのちょっとの諦めと=The radio, me, and a little resignation
+
+
+#Meiqi-1 First Introduction.
+三石日ノ杜学園高校三年、瀟美岐。\n灰病になったのは降り始めてすぐ=Miki Xiao, third year at Mitsuishi Hinomori Academy High School. I contracted the Ashen Sickness shortly after it began to fall.
+前線での戦闘、部隊の指揮、\n任務に関することはすべてやる。例外はない=Combat on the front lines, commanding the unit, anything related to missions - I handle it all. There are no exceptions.
+バディは高岡由紀子。文句を言いながらも\nやることはやる、優秀な仲間だ=My buddy is Yukiko Takaoka. Even while complaining, she does what she has to do. An excellent comrade.
+この映像を見ることになる、\n新たな仲間に伝えたいのは――=To the new comrades who will eventually watch this recording, what I want to convey is this—
+何よりも、足手まといになるなということだ=More than anything else, do not hold me back.
+戦場は常に死と隣り合わせだ。\n守りたいものすべてを守れるほど、甘い場所じゃない=The battlefield is a place where death is always close. It is not so naive a place that you can protect everything you wish to.
+己の命を守れるだけの力と覚悟を持て。\n私から伝えたいことはそれだけだ=Have the strength and resolve to protect your own life. That is all I have to say.
+……司令<color=#00000000>いえ</color>=...Commander<color=#00000000>No</color>
+ああ、いいだろう=Yeah, that's fine.
+しかし、いきなり圧が強いな=Still, the pressure is strong all of a sudden.
+そんなことはありません。\nただ、事実を述べたまでです=That is not the case. I merely stated the facts.
+守りたいものすべてを守れるほど\n甘い場所じゃない、か=A place that's not naive enough to protect everything it wants to protect, huh?
+……なんですか？=...What is it?
+いや、良い意気込みだ。今後も頼むぞ=No, that's good determination. I'm counting on you going forward.
+はい。お任せください=Yes. Please leave it to me.
+
+#Meiqi-2 The radio, me, and a little resignation
+「人はそう簡単に変われない」="People don't change that easily."
+「これまでの生き方も相まって、\n　私の中には確固たる”私”がいた」="In combination with my way of life up until now, I had a firm 'me' inside me."
+美岐？=Miki?
+「それは、正しくて強くて、\n　気高くあり続けたい”私”――」="That's the 'me' who wants to be right, strong, and noble..."
+ちょっと、美岐？　聞いてる～？=Hey, Miki? Are you listening~?
+あ、ああ。すまない。少し寝不足で……=Y-Yeah. Sorry. I didn't get enough sleep...
+ずっとあくびしてたもんね。\n一体、夜遅くまで何してたの？=You've been yawning this whole time, haven't you? What in the world have you been doing all night?
+え、あー……ラジオを聞いていた=Eh, ah... I was listening to the radio
+ラジオかぁ。ちょっと意外=Radio, huh? That's a little surprising
+この前、クラスメイトにも似たようなことを言われた=My classmates said something similar to me the other day
+だって、同世代でラジオが趣味って\nちょっと珍しくない？=I mean, isn't it a little unusual for someone your age to have a taste for radio?
+う～ん、確かにお姉さんも、\n動画ばっかり観ちゃってるな～=Hmm, it's true that big sister always watching videos, too~
+ラジオって、災害の時に聞くものだと思ってました……=I thought radios were meant to be listened to during disasters...
+かんな、ラジオ聴いたことなーい！=Kanna, I’ve never listened to the radio before!
+ふんっ。別に構わない。\n私だけが分かればいいんだ、この良さはな=Hmph. I don't mind. I'm the only one who understands how good this is
+ほらかんな、美岐がすねちゃったよ？=See, Miki's sulking, you know?
+えー？　かんなのせい？\nごめんね、美岐=Huh? Because of Kanna? Sorry, Miki
+す、すねてない！　言いがかりはよせ！=I-I'm not sulking! Stop making false accusations!
+ふふふ……。今日もにぎやかでいいね～=Hehehe... It's so lively today~
+あ、そーそー。\nこの前ヒーローショーでねー……=Oh, yeah, that's right. At the hero show the other day...
+（かんなは自分の好きなものを好きだと\n　胸を張って言える）=(Kanna can say with pride that she loves what she likes.)
+（それに比べて私は、余計なことを考えて……）=(On the other hand, I was thinking about something I shouldn't have...)
+（……いや）=(...No.)
+（……いいんだ、本当に。誰に理解されなくても）=(...It's okay, really. I don't need anyone to understand.)
+……仕方のないことなんだ=...It can't be helped
+
+
