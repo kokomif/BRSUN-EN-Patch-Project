@@ -1,6 +1,9 @@
 # BRSUN-EN-Patch-Project
 ## The Game Already EOS long ago but, The spirit to make English patch still alive!
 
+
+## Finally, the patch and the previously translated story (before this patch was made) have caught up with each other. From this point on, progress will slow down because the holidays are over and it will take more time to refine the sentences that were translated using MTL (machine translation).
+
 This patch uses ```BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.704```, which has been modified to work with the BRSun game.
 
 **Installed Plugins**
@@ -39,6 +42,10 @@ For example, to change the protagonist’s name to Firis, you can write:
 - The in-game UI of a BepInEx mod (like XUnity's GUI) is completely broken. However, this is not an essential function. The patch works without the GUI, and you can edit its configuration in the plugin's `.cfg` file.
 
 **Change Log**
+v0.3
+
+Update Translated Main Story up to CASE04
+
 v0.2
 
 Update Translated Main Story up to CASE02
@@ -49,6 +56,6 @@ Initial Release of necessary patch files and partially translated content into E
 
 **Special Thanks to**
 - Solaire of Astora, a member of the Atelier Discord Community, for making BepInEx compatible with the BRSun game.
-- The Atelier Discord Community for their support and for inspiring the idea to create an English patch.
+- The [Atelier Discord Community](https://discord.gg/tNB62xYZ95) for their support and for inspiring the idea to create an English patch.
 - The Blue Reflection Discord Community for their support and for providing story transcripts, some of which have been translated.
 - And to you, for wanting to read the story in the English language.
