@@ -8,7 +8,7 @@ This patch uses ```BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.704```, which has been 
 
 ### **Installed Plugins**
 - [XUnity.AutoTranslator-BepInEx-IL2CPP-5.4.5](https://github.com/bbepis/XUnity.AutoTranslator)
-- [BRSunTweaks v1.5](https://github.com/phantasmx/BRSunTweaks) 
+- [BRSunTweaks v1.06](https://github.com/phantasmx/BRSunTweaks) 
 
 ### **Patch Release Versions**
 - Contains only the necessary patch files.
