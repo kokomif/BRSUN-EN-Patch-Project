@@ -44,6 +44,7 @@ For example, to change the protagonist’s name to Firis, you can write:
 
 - Forces the game to always run in fullscreen mode, matching the display's current resolution (supports 4K resolution as well).
 - Allows toggling fullscreen mode with the `F11` key.
+- Allows toggling DOF with the `F10` key.
 - Caps the frame rate at 60 FPS.
 - Disables the depth of field effect at all graphics quality settings for improved clarity.
 - Increases the field of view (FOV) from the default value of 20 to 40, providing a better view on the home screen.
